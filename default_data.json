@@ -37626,7 +37626,18 @@
             ],
             "user_name": "renhao",
             "emails": ["renhao@beyondcent.com", "rh1457509849@163.com"]
-        }
+        },
+        {
+            "github_id": "wansir",
+            "companies": [
+                {
+                    "company_name": "QingCloud",
+                    "end_date": null
+                }
+            ],
+            "user_name": "Hongming Wan",
+            "emails": ["talonwan@yunify.com", "coder.scala@gmail.com"]
+        },
     ],
     "companies": [
         {
